@@ -1,7 +1,7 @@
 # Random Image Generator
 Random Image Generator or RIG is a program that generates a random image depending on the category you choose powered by the Unsplash API
 
-![Preview of Appliction](https://ibb.co/yNTZXDh][img]https://i.ibb.co/yNTZXDh/Ferarrri.png[/img][/url])
+![Preview of Appliction](https://github.com/SooperMango/Random-Image-Generator/blob/7c115b8c0c22a54b388d23d5bef28036a236977b/Preview.png?raw=true)
 
 # Setting up
 This site was built using [Unsplash API](gitimages/ferarrri.png)
