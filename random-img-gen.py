@@ -13,7 +13,7 @@ root.resizable(True, True)
 style = Style(theme="sandstone")
 
 def display_image(category):
-    url = f'https://api.unsplash.com/photos/random?query={category}&orientation=landscape&client_id=kQI4yDmON9IZj74e7jI2U42kwSXanb_gQAp_mpEjUAs'
+    url = f'https://api.unsplash.com/photos/random?query={category}&orientation=landscape&client_id=YOUR_ACCESS_KEY'
     data = requests.get(url).json()
     img_data = requests.get(data['urls']['regular']).content
 
